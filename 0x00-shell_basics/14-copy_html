@@ -1,2 +1,2 @@
 #!/bin/bash
-find -iname '*.html' | cp -n ..
+find -iname '*.html' | xargs cp -nt ../
