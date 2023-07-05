@@ -1,2 +1,2 @@
 #!/bin/bash
-ls --file-type *.html | cp ..
+find -iname '*.html' -exec cp {} .. \;
