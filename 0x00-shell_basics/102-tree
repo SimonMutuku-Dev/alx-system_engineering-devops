@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir welcome | ls | xargs cd | mkdir to | ls | xargs cd | mkdir school
+mkdir -p welcome/to/school

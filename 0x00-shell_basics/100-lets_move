@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep -v [:title:]
+ls | grep -v [:upper:]
