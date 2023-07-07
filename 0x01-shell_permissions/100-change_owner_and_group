@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a | xargs sudo chown vincent | ls -a | xargs chgrp staff
