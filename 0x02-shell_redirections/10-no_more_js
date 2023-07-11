@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -R -iname *.js | xargs rm

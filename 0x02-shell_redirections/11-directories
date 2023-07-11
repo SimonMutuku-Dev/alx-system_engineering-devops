@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -a | xargs find . -type d -print | wc -l
